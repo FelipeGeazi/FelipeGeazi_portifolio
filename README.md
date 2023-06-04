@@ -32,6 +32,6 @@ Ao finalizar o download das dependências, inicie a visualização do projeto em
 * * *
 
 
- [Acesse o meu site] (https://felipe-geazi-portifolio.vercel.app/)
+ [Acesse o meu site](https://felipe-geazi-portifolio.vercel.app/)
 
 
